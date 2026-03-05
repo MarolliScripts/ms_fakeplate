@@ -1,0 +1,20 @@
+Locales = Locales or {}
+Locales['en'] = {
+    buy_empty_plate = 'Buy Empty Plate',
+    change_plate_label = 'Swap Plate',
+    restore_plate_label = 'Restore Real Plate',
+    error_no_vehicle = 'No vehicle nearby!',
+    error_no_fake_plate = 'You do not have an empty plate!',
+    error_rear_vehicle = 'You must stand at the rear of the vehicle!',
+    progress_changing_plate = 'Changing plate...',
+    progress_restoring_plate = 'Restoring plate...',
+    success_changed_plate = 'Fake plate has been applied.',
+    success_restored_plate = 'Plate restored to original.',
+    cancelled_change = 'Plate change cancelled',
+    cancelled_restore = 'Plate restore cancelled',
+    error_no_saved_plate = 'No saved original plate.',
+    purchase_success_title = 'Success',
+    purchase_success_desc = 'You purchased an empty plate.',
+    purchase_error_title = 'Error',
+    purchase_error_desc = 'You do not have enough money.'
+}

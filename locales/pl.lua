@@ -1,0 +1,20 @@
+Locales = Locales or {}
+Locales['pl'] = {
+    buy_empty_plate = 'Kup Pustą Tablicę',
+    change_plate_label = 'Podmień Tablicę',
+    restore_plate_label = 'Przywróć Prawdziwą Tablicę',
+    error_no_vehicle = 'Brak pojazdu w pobliżu!',
+    error_no_fake_plate = 'Nie masz pustej tablicy!',
+    error_rear_vehicle = 'Musisz stać z tyłu pojazdu!',
+    progress_changing_plate = 'Podmiana tablicy...',
+    progress_restoring_plate = 'Przywracanie tablicy...',
+    success_changed_plate = 'Sfałszowana tablica została podmieniona.',
+    success_restored_plate = 'Tablica przywrócona do domyślnej.',
+    cancelled_change = 'Anulowano podmianę tablicy',
+    cancelled_restore = 'Anulowano przywracanie tablicy',
+    error_no_saved_plate = 'Brak zapisanej oryginalnej tablicy.',
+    purchase_success_title = 'Sukces',
+    purchase_success_desc = 'Zakupiłeś pustą tablicę.',
+    purchase_error_title = 'Błąd',
+    purchase_error_desc = 'Nie masz wystarczającej ilości pieniędzy.'
+}
